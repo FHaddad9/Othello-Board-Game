@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/gameplay.c
+gameplay.h
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/gameplay.h
+stdio.h
+-
+string.h
+-
+
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/gameplay.h
+initialiseBoard.h
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/initialiseBoard.h
+
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/initialiseBoard.h
+
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/printFile.c
+printFile.h
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/printFile.h
+stdio.h
+-
+time.h
+-
+
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/printFile.h
+initialiseBoard.h
+/cygdrive/c/Users/35383/CLionProjects/Assignment2-19344236/initialiseBoard.h
+stdio.h
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Assignment2_19344236.dir/main.c.o CMakeFiles/Assignment2_19344236.dir/initialiseBoard.c.o CMakeFiles/Assignment2_19344236.dir/gameplay.c.o CMakeFiles/Assignment2_19344236.dir/printFile.c.o  -o Assignment2_19344236.exe -Wl,--out-implib,libAssignment2_19344236.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
